@@ -5,7 +5,7 @@ require_relative '../fix_using_tests/false_equivalency'
 
 
 
-choice = 
+runner()
 
 describe "false_equivalency" do
   it "`selection` returns the correct string based on user input" do
