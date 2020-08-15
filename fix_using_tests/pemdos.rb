@@ -6,6 +6,7 @@ def snake_it_up(string)
     i = 0;
     while i<10 do
       fstring += "s"
+      i++
     end
     fstring+="string"
   else
