@@ -6,7 +6,7 @@ require_relative '../fix_using_tests/false_equivalency'
 
 
 
-runner()
+runner
 binding.pry
 
 describe "false_equivalency" do
