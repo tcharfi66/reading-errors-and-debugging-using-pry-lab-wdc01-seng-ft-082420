@@ -9,6 +9,7 @@ def snake_it_up(string)
       i++
     end
     fstring+="string"
+  end  
   else
     string
   end
