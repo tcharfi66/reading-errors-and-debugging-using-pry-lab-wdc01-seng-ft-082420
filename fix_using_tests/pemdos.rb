@@ -3,9 +3,10 @@ require 'pry'
 def snake_it_up(string)
   if string[0] == "s"
     fstring = ""
-    for(i=0;i<10;i++){
+    i = 0;
+    while i<10 do
       fstring += "s"
-    }
+    end
     fstring+="string"
   else
     string
